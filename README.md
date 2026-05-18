@@ -8,7 +8,7 @@ A collection of interactive data visualizations and executive dashboards hosted 
 
 A comprehensive visual breakdown of retail performance, mapping out sales geographical density, customer lifetime value, and product category trends.
 
-* **[📊 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/xin.bu3239/viz/Ecommerce_17141517032900/Ecommerce)**
+* **[📊 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/xin.bu3239/viz/Ecommerce_17737070627190/EcommercePerformance)**
 * **Key Skills:** Level of Detail (LOD) Expressions, Context Filters, Geographic Mapping, Heatmaps.
 
 ---
@@ -17,7 +17,7 @@ A comprehensive visual breakdown of retail performance, mapping out sales geogra
 
 A dynamic financial dashboard built to track stock market volatility, performance momentum, and trend lines over a rolling 12-month period.
 
-* **[📊 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/xin.bu3239/viz/OneYearStockPerformance/OneYearStockPerformance)**
+* **[📊 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/xin.bu3239/viz/OneYearStockPerformance_17732833122840/Dashboard1)**
 * **Key Skills:** Time-Series Analysis, Moving Averages, Parameter Controls (for dynamic asset switching), Dual-Axis Charts.
 
 ---
